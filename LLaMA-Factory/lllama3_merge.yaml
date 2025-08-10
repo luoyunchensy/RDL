@@ -1,0 +1,181 @@
+# # llama3 8b-base
+# model_name_or_path: ../models/llama/llama-3.1-8b-base
+# adapter_name_or_path: ./output/llama-3.1-8b-base-finetune-lora-fewrl-1e-4
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.1-8b-base-finetune-lora-fewrl-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.1-8b-base
+# adapter_name_or_path: ./output/llama-3.1-8b-base-finetune-lora-fewrl-1e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.1-8b-base-finetune-lora-fewrl-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.1-8b-base
+# adapter_name_or_path: ./output/llama-3.1-8b-base-finetune-lora-fewrl-5e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.1-8b-base-finetune-lora-fewrl-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# # llama3 8b-instruct
+# model_name_or_path: ../models/llama/llama-3.1-8b-instruct
+# adapter_name_or_path: ./output/llama-3.1-8b-instruct-finetune-lora-fewrl-1e-4
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.1-8b-instruct-finetune-lora-fewrl-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.1-8b-instruct
+# adapter_name_or_path: ./output/llama-3.1-8b-instruct-finetune-lora-fewrl-1e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.1-8b-instruct-finetune-lora-fewrl-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.1-8b-instruct
+# adapter_name_or_path: ./output/llama-3.1-8b-instruct-finetune-lora-fewrl-5e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.1-8b-instruct-finetune-lora-fewrl-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# # llama3 3b-base
+# model_name_or_path: ../models/llama/llama-3.2-3b-base
+# adapter_name_or_path: ./output/llama-3.2-3b-base-finetune-lora-fewrl-1e-4
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-3b-base-finetune-lora-fewrl-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.2-3b-base
+# adapter_name_or_path: ./output/llama-3.2-3b-base-finetune-lora-fewrl-1e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-3b-base-finetune-lora-fewrl-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.2-3b-base
+# adapter_name_or_path: ./output/llama-3.2-3b-base-finetune-lora-fewrl-5e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-3b-base-finetune-lora-fewrl-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# # llama3 3b-instruct
+# model_name_or_path: ../models/llama/llama-3.2-3b-instruct
+# adapter_name_or_path: ./output/llama-3.2-3b-instruct-finetune-lora-fewrl-1e-4
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-3b-instruct-finetune-lora-fewrl-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.2-3b-instruct
+# adapter_name_or_path: ./output/llama-3.2-3b-instruct-finetune-lora-fewrl-1e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-3b-instruct-finetune-lora-fewrl-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.2-3b-instruct
+# adapter_name_or_path: ./output/llama-3.2-3b-instruct-finetune-lora-fewrl-5e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-3b-instruct-finetune-lora-fewrl-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# # llama3 1b-base
+# model_name_or_path: ../models/llama/llama-3.2-1b-base
+# adapter_name_or_path: ./output/llama-3.2-1b-base-finetune-lora-fewrl-1e-4
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-1b-base-finetune-lora-fewrl-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.2-1b-base
+# adapter_name_or_path: ./output/llama-3.2-1b-base-finetune-lora-fewrl-1e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-1b-base-finetune-lora-fewrl-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.2-1b-base
+# adapter_name_or_path: ./output/llama-3.2-1b-base-finetune-lora-fewrl-5e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-1b-base-finetune-lora-fewrl-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# # llama3 1b-instruct
+# model_name_or_path: ../models/llama/llama-3.2-1b-instruct
+# adapter_name_or_path: ./output/llama-3.2-1b-instruct-finetune-lora-fewrl-1e-4
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-1b-instruct-finetune-lora-fewrl-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.2-1b-instruct
+# adapter_name_or_path: ./output/llama-3.2-1b-instruct-finetune-lora-fewrl-1e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-1b-instruct-finetune-lora-fewrl-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/llama/llama-3.2-1b-instruct
+# adapter_name_or_path: ./output/llama-3.2-1b-instruct-finetune-lora-fewrl-5e-5
+# template: llama3
+# trust_remote_code: true
+# export_dir: ../models/llama/llama-3.2-1b-instruct-finetune-lora-fewrl-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+
+
+
+
+model_name_or_path: ../models/llama/llama-3.1-8b-base
+adapter_name_or_path: ../ICDE/llama-3.1-8b-base-finetune-lora-wiki-1e-5
+template: llama3
+trust_remote_code: true
+export_dir: ../models/llama/llama-3.1-8b-base-finetune-lora-wiki-1e-5
+export_size: 5
+export_device: auto
+export_legacy_format: false

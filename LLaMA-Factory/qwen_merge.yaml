@@ -1,0 +1,483 @@
+# model_name_or_path: ../models/qwen/qwen2.5-1.5b-base
+# adapter_name_or_path: ./output/qwen2.5-1.5b-base-finetune-lora
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-1.5b-base-finetune-lora
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-1.5b-base
+# adapter_name_or_path: ./output/qwen2.5-1.5b-base-finetune-lora1
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-1.5b-base-finetune-lora1
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-1.5b-base
+# adapter_name_or_path: ./output/qwen2.5-1.5b-base-finetune-lora2
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-1.5b-base-finetune-lora2
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-1.5b-instruct
+# adapter_name_or_path: ./output/qwen2.5-1.5b-instruct-finetune-lora1
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-1.5b-instruct-finetune-lora1
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-1.5b-instruct
+# adapter_name_or_path: ./output/qwen2.5-1.5b-instruct-finetune-lora2
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-1.5b-instruct-finetune-lora2
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-instruct
+# adapter_name_or_path: ./output/qwen2.5-7b-instruct-finetune-lora
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-instruct-finetune-lora
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-0.5b-base
+# adapter_name_or_path: ./output/qwen2.5-0.5b-base-finetune-lora1
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-0.5b-base-finetune-lora1
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-0.5b-instruct
+# adapter_name_or_path: ./output/qwen2.5-0.5b-instruct-finetune-lora1
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-0.5b-instruct-finetune-lora1
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-0.5b-base
+# adapter_name_or_path: ./output/qwen2.5-0.5b-base-finetune-lora2
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-0.5b-base-finetune-lora2
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-0.5b-instruct
+# adapter_name_or_path: ./output/qwen2.5-0.5b-instruct-finetune-lora2
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-0.5b-instruct-finetune-lora2
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-0.5b-base
+# adapter_name_or_path: ./output/qwen2.5-0.5b-base-finetune-lora-cot
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-0.5b-instruct-finetune-lora-cot
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+
+# 3b-base
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-fewrl-lora-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora1
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-fewrl-lora-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora2
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-fewrl-lora-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+#3b-Instruct
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-instruct
+# adapter_name_or_path: ./output/qwen2.5-3b-instruct-finetune-lora
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-instruct-finetune-fewrl-lora-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-instruct
+# adapter_name_or_path: ./output/qwen2.5-3b-instruct-finetune-lora1
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-instruct-finetune-fewrl-lora-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-instruct
+# adapter_name_or_path: ./output/qwen2.5-3b-instruct-finetune-lora2
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-instruct-finetune-fewrl-lora-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+
+
+# 14b-base
+
+# model_name_or_path: ../models/qwen/qwen2.5-14b-base
+# adapter_name_or_path: ./output/qwen2.5-14b-base-finetune-lora-1e5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-14b-base-finetune-fewrl-lora-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-14b-base
+# adapter_name_or_path: ./output/qwen2.5-14b-base-finetune-lora-5e5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-14b-base-finetune-fewrl-lora-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-14b-base
+# adapter_name_or_path: ./output/qwen2.5-14b-base-finetune-lora-1e4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-14b-base-finetune-fewrl-lora-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# # 14b-Instruct
+
+# model_name_or_path: ../models/qwen/qwen2.5-14b-instruct
+# adapter_name_or_path: ./output/qwen2.5-14b-instruct-finetune-lora-1e5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-14b-instruct-finetune-fewrl-lora-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-14b-instruct
+# adapter_name_or_path: ./output/qwen2.5-14b-instruct-finetune-lora-5e5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-14b-instruct-finetune-fewrl-lora-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-14b-instruct
+# adapter_name_or_path: ./output/qwen2.5-14b-instruct-finetune-lora-1e4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-14b-instruct-finetune-fewrl-lora-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-instruct
+# adapter_name_or_path: ./output/qwen2.5-7b-instruct-finetune-lora-1e4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-instruct-finetune-fewrl-lora-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-1e4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-fewrl-lora-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-5e-5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-fewrl-lora-5e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-0.5b-base
+# adapter_name_or_path: ./output/qwen2.5-0.5b-base-finetune-lora-cot-r1only-1epoch-1e-5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-0.5b-base-finetune-lora-cot-r1only-1bepoch-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-0.5b-base
+# adapter_name_or_path: ./output/qwen2.5-0.5b-base-finetune-lora-cot-r1only-3epoch-1e-5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-0.5b-base-finetune-lora-cot-r1only-3epoch-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-0.5b-base
+# adapter_name_or_path: ./output/qwen2.5-0.5b-base-finetune-lora-cot-r1only-3epoch-1e-4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-0.5b-base-finetune-lora-cot-r1only-3epoch-1e-4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-cotmix1
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-cotmix1
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-14b-instruct
+# adapter_name_or_path: ./output/qwen2.5-14b-instruct-finetune-lora-wiki-1e5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-14b-instruct-finetune-lora-wiki-1e-5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-fewrel-sampled1000
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-fewrel-sampled1000-1e5-3epoch
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-fewrel-sampled1000-1e5-5epoch
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-fewrel-sampled1000-1e5-5epoch
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-fewrel-sampled1000-5e5-5epoch
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-fewrel-sampled1000-5e5-5epoch
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-1candidate
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-1candidate
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-10candidate
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-10candidate
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-3candidate
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-3candidate
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-3pct
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-3pct
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-1pct
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-1pct
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-5pct-1e4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-5pct-1e4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-5pct-1e5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-5pct-1e5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-0candidate
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-0candidate
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-3b-base
+# adapter_name_or_path: ./output/qwen2.5-3b-base-finetune-lora-2candidate
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-3b-base-finetune-lora-2candidate
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-wiki1pct-1e4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-wiki1pct-1e4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-wiki5pct-1e4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-wiki5pct-1e4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-wiki3pct-1e4
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-wiki3pct-1e4
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-wiki3pct-1e5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-wiki3pct-1e5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
+
+
+# model_name_or_path: ../models/qwen/qwen2.5-7b-base
+# adapter_name_or_path: ./output/qwen2.5-7b-base-finetune-lora-wiki3pct-5e5
+# template: qwen
+# trust_remote_code: true
+# export_dir: ../models/qwen/qwen2.5-7b-base-finetune-lora-wiki3pct-5e5
+# export_size: 5
+# export_device: auto
+# export_legacy_format: false
